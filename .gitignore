@@ -29,3 +29,8 @@ mnist.npz
 
 *-checkpoint.ipynb
 /.ipynb_checkpoints
+
+Gemfile
+Gemfile.lock
+_config.yml
+_site/
